@@ -1,0 +1,14 @@
+body {
+    background: #333;
+    color: antiquewhite;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+}
+
+header {
+    width: 100px;
+    background: rosybrown;
+    margin: 20px;
+    padding: 30px;
+    border: 10px antiquewhite;
+}
+
